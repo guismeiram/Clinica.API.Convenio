@@ -1,31 +1,31 @@
 # Clinica.API.Convenio
-Clinica-.API.Convenio é destinado a estudos.
+Clinica-.API.Convenio é destinado a estudos.<br>
 
-O projeto é feito em c#. E é constituido por camadas com libs no Padrão MVC, utilizando Entityframework na camada Data, validações com fluent api(Bussines) e geração e atualização de migrations. Identity para logins e criaçaõ de usúarios(crud).
+O projeto é feito em c#. E é constituido por camadas com libs no Padrão MVC, utilizando Entityframework na camada Data, validações com fluent api(Bussines) e geração e atualização de migrations. Identity para logins e criaçaõ de usúarios(crud).<br>
 
-Este projeto tem objetivo de estudos e graduação de conhecimento.
--DevIO.Bussines: Logica de negocio
--DevIO.APP: Camada destinada a controle de rotas, rederização de views
--DevIO.Data: Camada de interação com banco de dados.
+Este projeto tem objetivo de estudos e graduação de conhecimento.<br>
+-DevIO.Bussines: Logica de negocio<br>
+-DevIO.API: Camada destinada a controle de rotas, injeção de dependencia e autommaper<br>
+-DevIO.Data: Camada de interação com banco de dados.<br><br>
 
-O que foi utilizado no projeto?(Este projeto esta começando)
--Entity Framework
--Fluent Api
--Linq
--Identity
--Injeção de Dependencia
--Automaper
+O que foi utilizado no projeto?(Este projeto esta começando)<br>
+-Entity Framework<br>
+-Fluent Api<br>
+-Linq<br>
+-Identity<br>
+-Injeção de Dependencia<br>
+-Automaper<br><br>
 
-Como baixar este projeto?
--git clone https://github.com/guismeiram/Clinica.API.Convenio
+Como baixar este projeto?<br>
+-git clone https://github.com/guismeiram/Clinica.API.Convenio<br>
 
-Ferramentas para teste ou codificação:
--Visual Studio 2022
--Microsoft Sql Server
--.NET CORE 6
+Ferramentas para teste ou codificação:<br>
+-Visual Studio 2022<br>
+-Microsoft Sql Server<br>
+-.NET CORE 6<br><br>
 
-Como gerar o banco:
--Update-DataBase
+Como gerar o banco:<br>
+-Update-DataBase<br><br>
 
-Como gerar as Migrations:
--Add-Migration Initial -Verbose -Context ClinicaDbContext
+Como gerar as Migrations:<br>
+-Add-Migration Initial -Verbose -Context ClinicaDbContext<br>
