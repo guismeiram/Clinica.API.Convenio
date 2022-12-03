@@ -1,7 +1,7 @@
 # Clinica.API.Convenio
 Clinica-.API.Convenio é destinado a estudos.<br>
 
-O projeto é feito em c#. E é constituido por camadas com libs no Padrão MVC, utilizando Entityframework na camada Data, validações com fluent api(Bussines) e geração e atualização de migrations. Identity para logins e criaçaõ de usúarios(crud).<br>
+O projeto é feito em c#. E é constituido por camadas com libs no Padrão MVC, utilizando Entityframework na camada Data, validações com fluent api(Bussines) e geração e atualização de migrations. .<br>
 
 Este projeto tem objetivo de estudos e graduação de conhecimento.<br>
 -DevIO.Bussines: Logica de negocio<br>
@@ -12,7 +12,6 @@ O que foi utilizado no projeto?(Este projeto esta começando)<br>
 -Entity Framework<br>
 -Fluent Api<br>
 -Linq<br>
--Identity<br>
 -Injeção de Dependencia<br>
 -Automaper<br><br>
 
